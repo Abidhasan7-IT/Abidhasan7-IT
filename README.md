@@ -166,4 +166,4 @@ I specialize in building React design that do all the heavy lifting for your app
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">AUtor <a href="https://abid7.netlify.app" target="_blank">Abid Hasan</a></div>
