@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/442481337_1508598193059176_8357557271834386979_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4ew7zsr2tDwQ7kNvgE3yhoK&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=AD9Qy6pE0_nI49Krb-LO4iK&oh=00_AYAxguUP5O3pfygtHz487IpMMH4puuXYElRSuAUOPQtm9A&oe=67A54D35" align="center" height="300" width="700" />
+<img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/442481337_1508598193059176_8357557271834386979_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4ew7zsr2tDwQ7kNvgE3yhoK&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=AD9Qy6pE0_nI49Krb-LO4iK&oh=00_AYAxguUP5O3pfygtHz487IpMMH4puuXYElRSuAUOPQtm9A&oe=67A54D35" align="center" height="300" width="600" />
 </div>  
   
 
@@ -61,7 +61,7 @@ I specialize in building React design that do all the heavy lifting for your app
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://th.bing.com/th/id/OIP.cToxD770pmo57_Slz9DbywHaFj?w=800&h=600&rs=1&pid=ImgDetMain" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" align="center" style="width: 100%" />
 </div>  
 
 
